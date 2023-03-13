@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+  }
+  
+  .icon {
+    width: 50px;
+    vertical-align: middle;
+  }
+  
+  .title {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+  
+  .description {
+    margin-top: 20px;
+    font-size: 25px;
+  }
+  
+
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .home-buttons-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home-button {
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+  }

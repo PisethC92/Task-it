@@ -1,0 +1,12 @@
+.buttons {
+    display: flex;
+    justify-content: flex-start;
+    color: #007bff;
+  }
+  
+  .buttons button,
+  .buttons input[type="submit"] {
+    width: 15%;
+    margin-right: 8px;
+  }
+  
